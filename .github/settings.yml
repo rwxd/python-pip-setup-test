@@ -1,0 +1,5 @@
+repository:
+  name: "python-pip-setup-test"
+  description: "Test python requirements & pip installations"
+  homepage: "https://rwxd.github.io/python-pip-setup-test/"
+  topics: "python, test"
